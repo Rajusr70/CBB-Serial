@@ -7,6 +7,8 @@ to the BeagleBone.
 
 The CBB-Serial Cape will be available soon at http://www.logicsupply.com/
 
+Check out the CBB-Serial manual at https://docs.google.com/document/d/1y0aKYqKd3_5HuzUvIepQmC5AjbFIqBlBak-Jtv0YB7Q/edit?usp=sharing
+
 ----
 
 Follow us on Google+ for updates and more information: https://plus.google.com/u/0/b/103613886667848850929/
