@@ -5,7 +5,7 @@ This repository contains the design files for the Logic Supply CBB-Serial Cape f
 BeagleBone and BeagleBone Black. It adds RS232, RS485 and CAN communication capabilities
 to the BeagleBone.
 
-The CBB-Serial Cape will be available soon at http://www.logicsupply.com/
+The CBB-Serial Cape is available at http://www.logicsupply.com/
 
 Check out the CBB-Serial manual at https://docs.google.com/document/d/1y0aKYqKd3_5HuzUvIepQmC5AjbFIqBlBak-Jtv0YB7Q/edit?usp=sharing
 
